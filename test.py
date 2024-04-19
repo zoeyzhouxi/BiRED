@@ -4,7 +4,7 @@ import time
 import utils
 from model import bired
 import data_loader
-from sklearn.metrics import mean_squared_error, roc_auc_score, mean_absolute_error, roc_curve, auc
+from sklearn.metrics import mean_squared_error, roc_auc_score, mean_absolute_error, roc_curve
 import os
 current_path = os.path.dirname(__file__)
 
